@@ -7,14 +7,11 @@ to generic data.
 
 Supports Python 3.8, 3.9, 3.10 and 3.11.
 
-[![Build Status](https://app.travis-ci.com/jurismarches/geoconvert.svg?branch=master)](https://app.travis-ci.com/jurismarches/geoconvert)
-[![codecov](https://codecov.io/gh/jurismarches/geoconvert/branch/master/graph/badge.svg?token=UB3Vij6ygJ)](https://codecov.io/gh/jurismarches/geoconvert)
-
 # Installation
 
 Install the latest version from Github:
 ```bash
-pip install https://github.com/jurismarches/geoconvert/archive/master.zip
+pip install https://github.com/Samplead/geoconvert/archive/master.zip
 ```
 
 # TL;DR
